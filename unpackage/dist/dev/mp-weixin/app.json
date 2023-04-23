@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/cart/cart",
+    "pages/location/location",
+    "pages/OldQuestion/Que",
+    "pages/OldQuestion/chatdetail",
+    "pages/user/user",
+    "pages/user/login",
+    "pages/user/signup",
+    "pages/user/add",
+    "pages/cart/orderDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "网联花甲",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#00aaff",
+    "borderStyle": "black",
+    "backgroundColor": "#fffbf7",
+    "height": "50px",
+    "list": [
+      {
+        "pagePath": "pages/OldQuestion/Que",
+        "iconPath": "static/tabbar/tabbar_biji1.png",
+        "selectedIconPath": "static/tabbar/tabbar_biji2.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/want1.png",
+        "selectedIconPath": "static/want.png",
+        "text": "想要"
+      },
+      {
+        "pagePath": "pages/location/location",
+        "iconPath": "static/tabbar/location.png",
+        "selectedIconPath": "static/tabbar/locationSelect.png",
+        "text": "位置"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tabbar/tabbar_wode1.png",
+        "selectedIconPath": "static/tabbar/tabbar_wode2.png",
+        "text": "用户"
+      }
+    ]
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "需要获得用户位置来确定和家属的位置"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation"
+  ],
+  "usingComponents": {}
+}

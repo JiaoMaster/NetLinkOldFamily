@@ -1,0 +1,1 @@
+.page{height:200px;background:linear-gradient(15deg,#0f65db,#0a8fec,#0ac4ec);color:#fff}.avatar{display:flex;justify-content:center;align-items:center}.text_size{font-size:15px;display:flex;align-items:center;justify-content:center;text-align:justify}.context_size{display:inline-block}

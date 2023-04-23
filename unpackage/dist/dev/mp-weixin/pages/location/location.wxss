@@ -1,0 +1,27 @@
+
+.text_size{
+		font-size: 15px;
+		display:flex;/*实现垂直居中*/
+		justify-content:center;
+}
+.page {
+		height: 100px;
+			margin-top: 5px;
+			margin-left: 2px;
+			margin-right: 2px;
+		background: linear-gradient(15deg, #0F65DB, #0A8FEC, #0AC4EC);
+		color: #FFFFFF;
+			border-radius: 40rpx 40rpx 40rpx 40rpx;
+}
+.content {
+	
+	height: 500px;
+	width: 100%;
+    flex: 1;
+}
+.map {
+	  height: 500px;
+	  width: 100%;
+    flex: 1;
+}
+

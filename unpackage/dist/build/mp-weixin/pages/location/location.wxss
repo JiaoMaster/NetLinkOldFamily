@@ -1,0 +1,1 @@
+.text_size{font-size:15px;display:flex;justify-content:center}.page{height:100px;margin-top:5px;margin-left:2px;margin-right:2px;background:linear-gradient(15deg,#0f65db,#0a8fec,#0ac4ec);color:#fff;border-radius:40rpx 40rpx 40rpx 40rpx}.content{height:500px;width:100%;flex:1}.map{height:500px;width:100%;flex:1}

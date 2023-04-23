@@ -1,0 +1,25 @@
+
+.page {
+	height: 200px;
+	background: linear-gradient(15deg, #0F65DB, #0A8FEC, #0AC4EC);
+	color: #FFFFFF;
+}
+.avatar {
+	display: flex;
+	justify-content: center; /*子元素水平居中 */
+	align-items: center; /*子元素垂直居中 */
+}
+.text_size {
+	font-size: 15px;
+	display: flex;
+	/*实现垂直居中*/
+	align-items: center;
+	/*实现水平居中*/
+	justify-content: center;
+	text-align: justify;
+}
+.context_size {
+
+	display: inline-block;
+}
+

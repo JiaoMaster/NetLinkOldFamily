@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "ta的消息",
+  "usingComponents": {
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast",
+    "u-text": "/uni_modules/uview-ui/components/u-text/u-text",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty"
+  }
+}

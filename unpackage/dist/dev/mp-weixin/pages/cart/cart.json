@@ -1,0 +1,18 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "ta想兑换",
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "u-subsection": "/uni_modules/uview-ui/components/u-subsection/u-subsection",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-list": "/uni_modules/uview-ui/components/u-list/u-list",
+    "u-list-item": "/uni_modules/uview-ui/components/u-list-item/u-list-item",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-radio-group": "/uni_modules/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uni_modules/uview-ui/components/u-radio/u-radio",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}
